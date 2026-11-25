@@ -1,5 +1,5 @@
 # 1975 - M461M - WBS 461M Pinouts.jpg
-Wiki page: [M461M](../../../PAGES/M461M.md)
+Wiki page: [M461M](../../../../PAGES/M461M.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -161,7 +161,7 @@ CHASSIS GROUND 8 Tesr (SNNE 5 ONS N red 'H"v E 3 341
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M461M/1975 - M461M - WBS 461M Pinouts.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M461M/PINOUTS/1975 - M461M - WBS 461M Pinouts.jpg",
  "sha256": "832e32273dd58cd16eaff1a0ca1026a0115c55dfd97b3a6545e97dc54c389735",
  "kind": "module",
  "models": [

@@ -1,0 +1,303 @@
+{
+ "code": "M461M",
+ "connector": "RTO-144",
+ "type": "Microphone Preamp",
+ "series": null,
+ "contacts": "21 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "LINE",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "CHON OUT   OUT",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "RIGHT OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "LINE",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "FADER RETURN",
+   "kind": "in",
+   "pair": "B4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "CHON OUT   OUT",
+   "kind": "out",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "R",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "T",
+   "signal": "RIGHT OUT",
+   "kind": "out",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "Y",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M461M/M461M.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "CH ON LAMP",
+   "designation": "JMP.Z.W",
+   "from": "Z",
+   "to": "W"
+  },
+  {
+   "function": "24V Ground",
+   "designation": "JMP.X.18",
+   "from": "X",
+   "to": "18"
+  },
+  {
+   "function": "24V to 25V",
+   "designation": "JMP.Y.21",
+   "from": "Y",
+   "to": "21"
+  },
+  {
+   "function": "CH ON GND ",
+   "designation": "JMP.3",
+   "from": "20",
+   "to": "18"
+  },
+  {
+   "function": "Insert  SEND",
+   "designation": "JMP.14.13",
+   "from": "14",
+   "to": "13"
+  },
+  {
+   "function": "Insert  Return",
+   "designation": "JMP.R.P",
+   "from": "R",
+   "to": "P"
+  },
+  {
+   "function": "Fader Send",
+   "designation": "JMP.12.11",
+   "from": "12",
+   "to": "11"
+  },
+  {
+   "function": "Fader Return",
+   "designation": "JMP.N.M",
+   "from": "N",
+   "to": "M"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.1,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  },
+  {
+   "rail": "VCC-LAMP",
+   "style": "NEW",
+   "volts": 24,
+   "max_a": 0.1,
+   "supply": "Y",
+   "ground": "18",
+   "link": null
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M461M/M461M.rto144.json"
+ ]
+}

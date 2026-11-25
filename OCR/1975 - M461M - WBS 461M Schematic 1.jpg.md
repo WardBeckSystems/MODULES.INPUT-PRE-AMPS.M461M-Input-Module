@@ -1,5 +1,5 @@
 # 1975 - M461M - WBS 461M Schematic 1.jpg
-Wiki page: [M461M](../../../PAGES/M461M.md)
+Wiki page: [M461M](../../../../PAGES/M461M.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -219,7 +219,7 @@ INPlt Module SCHEMATIC {di-0*-006
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M461M/1975 - M461M - WBS 461M Schematic 1.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M461M/SCHEMATICS/1975 - M461M - WBS 461M Schematic 1.jpg",
  "sha256": "4bae6db2ef2d4cc48805b38fd1ad744fadd76b74da5cfef0ae72e40b93de99d6",
  "kind": "module",
  "models": [
