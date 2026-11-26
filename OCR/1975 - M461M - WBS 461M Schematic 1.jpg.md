@@ -11,6 +11,20 @@ Wiki page: [M461M](../../../../PAGES/M461M.md)
 - **Size:** 2,124,816 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 314 mm, 2000 × 1453 px traced (0.216 mm/px)
+- **Ink extent:** 6–419 mm across, 8–301 mm up
+- **Outlines:** line 2,854 rings, 28,793 straight (24,671 mm) / 5,711 curved (6,390 mm); text 428 rings, 3,675 straight (2,848 mm) / 1,111 curved (1,246 mm)
+- **Centre lines:** 24,635 paths (177 closed); straight 15,678 mm, curved 248 mm; horizontal 5,659 mm, vertical 3,697 mm, diagonal 6,322 mm
+- **Circles and arcs:** 2 circles, 64 arcs; largest r 2.7 @ (211.4, 243.4), r 2.5 @ (235.2, 220.1)
+- **Closed boxes:** 15
+- **Dots (junctions):** 1
+- **Words (OCR):** 124 in 115 lines: 21V- · R2o · Sw! · R24 imput Selector · [2e3 · Sw3 · BE3 307 · LEFT · R22 · IES · 251 · SW?
+- **Wiring (first pass):** 229 connected wire groups from 1,088 runs; labelled ends: 151 mm → 22/25, 22125, 204, CR4; 144 mm → BOOSTER, AMPLIFIER, 3et, R43; 135 mm → {5k, Cp3, PS6, 22/25; 102 mm → Swi?; 81 mm → CR4, 22/25, Pv3645, 38
+
+Every curve, box, word and wire group: [1975 - M461M - WBS 461M Schematic 1 (traced).json](../SCHEMATICS/1975%20-%20M461M%20-%20WBS%20461M%20Schematic%201%20%28traced%29.json) (the CAD file: `1975 - M461M - WBS 461M Schematic 1 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 7 words corrected)

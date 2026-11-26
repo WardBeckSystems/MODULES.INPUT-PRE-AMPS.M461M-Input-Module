@@ -22,7 +22,7 @@ Wiki page: [M461M](../../../../PAGES/M461M.md)
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 155 connected wire groups from 644 runs
 
-Every curve, box, word and wire group: [1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1975%20-%20M461M%20-%20461-01-002%20-%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20(traced).json) (the CAD file: `1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1975%20-%20M461M%20-%20461-01-002%20-%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20%28traced%29.json) (the CAD file: `1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
 
 ## Full text
 

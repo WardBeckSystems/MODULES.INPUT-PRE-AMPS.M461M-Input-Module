@@ -23,7 +23,7 @@ Wiki page: [M461M](../../../../PAGES/M461M.md)
 - **Title block:** (145, 11)–(382, 62) mm: IsS MOD  [CKD · USED ON · MATL · 3/29 · WBS WARD-BECK BysTEMS LTD: · 4-109g 44.109A · Fo B1ogABLsc · charce · DRN; ELJ · Ma61M · FINISH · DATE 8SePT 76 · CKD · FUNCTIONAL · SCALE · TOLS · 461 01
 - **Wiring (first pass):** 136 connected wire groups from 348 runs; labelled ends: 109 mm → PRE, Post; 91 mm → PRE, PRE |Post; 75 mm → LTD:, WARD-BECK; 67 mm → CoMMON; 56 mm → MobULE, M481M
 
-Every curve, box, word and wire group: [1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (2) (traced).json](../SCHEMATICS/1975%20-%20M461M%20-%20461-01-002%20-%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20(2)%20(traced).json) (the CAD file: `1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (2) (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (2) (traced).json](../SCHEMATICS/1975%20-%20M461M%20-%20461-01-002%20-%20SOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20%282%29%20%28traced%29.json) (the CAD file: `1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (2) (traced).dxf`).
 
 ## Full text
 

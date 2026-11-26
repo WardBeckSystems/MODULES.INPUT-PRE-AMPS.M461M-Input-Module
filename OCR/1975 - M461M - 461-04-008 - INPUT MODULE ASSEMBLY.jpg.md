@@ -20,7 +20,7 @@ Wiki page: [M461M](../../../../PAGES/M461M.md)
 - **Words (OCR):** 50 in 40 lines: 3ooster · WBS · M6"M · Sw · WESJ · ~z 5 · 110 · 77 4 · 5//2 · 5W/5 · 6-109 · 348
 - **Title block:** (52, 3)–(422, 270) mm: 3ooster · WBS · M6"M · Sw · ~z 5 · 77 4 · 5//2 · 5W/5 · 6-109 · 348 · SW9 · WBS ) · WBS] · AUX · 4.03 · Sw7 · C:s · AUX · Ch On · SW3 · Qutzut AM? · Iv 461 M INZUT VODULE · USS: · MOD CKD: · USED ON ·
 
-Every curve, box, word and wire group: [1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY (traced).json](../MECHANICAL/1975%20-%20M461M%20-%20461-04-008%20-%20INPUT%20MODULE%20ASSEMBLY%20(traced).json) (the CAD file: `1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY (traced).json](../MECHANICAL/1975%20-%20M461M%20-%20461-04-008%20-%20INPUT%20MODULE%20ASSEMBLY%20%28traced%29.json) (the CAD file: `1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY (traced).dxf`).
 
 ## Full text
 

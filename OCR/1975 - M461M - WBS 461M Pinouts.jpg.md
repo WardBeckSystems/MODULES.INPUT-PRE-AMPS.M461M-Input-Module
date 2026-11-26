@@ -11,6 +11,18 @@ Wiki page: [M461M](../../../../PAGES/M461M.md)
 - **Size:** 1,521,304 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** layout, size B (assumed) 314 × 432 mm, 1453 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–304 mm across, 14–429 mm up
+- **Outlines:** line 1,125 rings, 16,700 straight (14,529 mm) / 2,597 curved (3,119 mm); text 588 rings, 6,364 straight (5,962 mm) / 1,504 curved (2,039 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (218.3, 38.1), r 2.2 @ (218.3, 99.8)
+- **Closed boxes:** 69; named: B /2; c |3; 0|4; E /5; F |6; K |9; L /10; 12; P /13; R /14; 18; 19
+- **Dots (junctions):** 1
+- **Words (OCR):** 90 in 59 lines: Mc IN · Mic In · B /2 · Mic SHIELD · 11 · c |3 · F B 2 · 0|4 F B 2 · E /5 · F B 1 · OUT · Out
+
+Every curve, box, word and wire group: [1975 - M461M - WBS 461M Pinouts (traced).json](../PINOUTS/1975%20-%20M461M%20-%20WBS%20461M%20Pinouts%20%28traced%29.json) (the CAD file: `1975 - M461M - WBS 461M Pinouts (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)
