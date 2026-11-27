@@ -27,6 +27,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3JDOXpnaW44NEU/view?resourcekey=0-82u5rQbPlo9ICamOK6fO0A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3JDOXpnaW44NEU&resourcekey=0-82u5rQbPlo9ICamOK6fO0A" width="240" alt="1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY.jpg"></a><br><sub>1975|8 · 461-04-008 - INPUT MODULE ASSEMBLY · <a href="MECHANICAL/1975%20-%20M461M%20-%20461-04-008%20-%20INPUT%20MODULE%20ASSEMBLY%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeUMxYmtfREwwRDA/view?resourcekey=0-9j62EiYFX-SY-kQ7Y77n6A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeUMxYmtfREwwRDA&resourcekey=0-9j62EiYFX-SY-kQ7Y77n6A" width="240" alt="1975 - M461M - 461-04-008 - MOD ICKD USED.jpg"></a><br><sub>1975|8 · 461-04-008 - MOD ICKD USED · <a href="MECHANICAL/1975%20-%20M461M%20-%20461-04-008%20-%20MOD%20ICKD%20USED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M461M.stl`](MECHANICAL/M461M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M461M)
+
+- **Size:** 42.96 × 158.9 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 10 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M461M - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M461M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
