@@ -1,5 +1,5 @@
 # 1975 - M461M - 461-01-002 - SOLO CONTROL SOLO COMMON CONTROL (2).jpg
-Wiki page: [M461M](../../../../PAGES/M461M.md)
+Wiki page: [M461M](../)
 
 
 - **Year:** 1975 (module estimate (family))

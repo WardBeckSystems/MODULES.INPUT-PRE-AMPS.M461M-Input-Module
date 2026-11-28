@@ -1,6 +1,6 @@
 # M461M Input Module · Input Pre Amps
 
-Ward-Beck Systems M461M, 1975|8. Wiki page: [M461M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M461M.html)
+Ward-Beck Systems M461M, 1975|8. Wiki page: [M461M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M461M-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

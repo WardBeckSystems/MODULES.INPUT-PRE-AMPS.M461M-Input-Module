@@ -1,5 +1,5 @@
 # 1975 - M461M - 461-04-008 - INPUT MODULE ASSEMBLY.jpg
-Wiki page: [M461M](../../../../PAGES/M461M.md)
+Wiki page: [M461M](../)
 
 
 - **Year:** 1975 (module estimate (family))
